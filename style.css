@@ -611,6 +611,7 @@ footer {
 
   .f-text {
     color: var(--lightblue);
+    margin-left: 0;
   }
 
   .header-service {
